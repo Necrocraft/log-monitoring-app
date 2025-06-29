@@ -1,69 +1,42 @@
-# React + TypeScript + Vite
+# ⚛️ React + TypeScript + Vite + Tailwind CSS App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern frontend project powered by **React**, **TypeScript**, **Vite**, and **Tailwind CSS** — built for speed, scalability, and developer happiness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧱 Tech Stack
 
-## Expanding the ESLint configuration
+- **React** – UI library
+- **TypeScript** – Static typing
+- **Vite** – Lightning-fast build tool
+- **Tailwind CSS** – Utility-first styling
+- **Vitest** – For unit testing using Jest
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## ⚙️ Prerequisites
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+- **Node.js**: `v20.19.3` or higher **Make sure the node version is correct before starting**
+- **Package manager**: `npm` (or `yarn`, `pnpm`)
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🚀 Getting Started
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+1. **Clone the repository**
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- Url: [https://github.com/Necrocraft/log-monitoring-app.git](https://github.com/Necrocraft/log-monitoring-app.git)
+
+2. **Put the logs.log file in the public folder of the app** **This is important otherwise the data will not be visible**
+
+3. **Install dependencies**
+
+- npm install
+
+4. **Start the development server**
+
+- npm run dev
+
+5. **For testing**
+
+- npx vitest run

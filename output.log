@@ -1,0 +1,269 @@
+10515 - scheduled task 386
+  START: 11:38:33
+  END:   11:40:24
+  Duration: 1.85 minutes
+  Level: INFO
+
+16168 - scheduled task 773
+  START: 12:02:39
+  END:   12:02:55
+  Duration: 0.27 minutes
+  Level: INFO
+
+22003 - scheduled task 004
+  START: 11:55:29
+  END:   12:06:42
+  Duration: 11.22 minutes
+  Level: ERROR
+
+23118 - scheduled task 188
+  START: 11:40:49
+  END:   11:41:28
+  Duration: 0.65 minutes
+  Level: INFO
+
+23703 - scheduled task 374
+  START: 12:04:57
+  END:   12:18:23
+  Duration: 13.43 minutes
+  Level: ERROR
+
+24482 - scheduled task 672
+  START: 12:10:38
+  END:   12:19:14
+  Duration: 8.60 minutes
+  Level: WARN
+
+24799 - scheduled task 536
+  START: 11:51:21
+  END:   11:51:28
+  Duration: 0.12 minutes
+  Level: INFO
+
+26831 - scheduled task 538
+  START: 11:46:04
+  END:   11:48:16
+  Duration: 2.20 minutes
+  Level: INFO
+
+27222 - scheduled task 294
+  START: 11:50:07
+  END:   11:56:15
+  Duration: 6.13 minutes
+  Level: WARN
+
+32674 - scheduled task 626
+  START: 11:51:06
+  END:   11:52:32
+  Duration: 1.43 minutes
+  Level: INFO
+
+32904 - scheduled task 697
+  START: 11:49:12
+  END:   11:49:46
+  Duration: 0.57 minutes
+  Level: INFO
+
+33528 - scheduled task 706
+  START: 11:52:47
+  END:   11:56:09
+  Duration: 3.37 minutes
+  Level: INFO
+
+34189 - scheduled task 920
+  START: 11:59:43
+  END:   12:03:02
+  Duration: 3.32 minutes
+  Level: INFO
+
+36709 - background job djw
+  START: 11:47:04
+  END:   11:47:54
+  Duration: 0.83 minutes
+  Level: INFO
+
+37980 - scheduled task 032
+  START: 11:35:23
+  END:   11:35:56
+  Duration: 0.55 minutes
+  Level: INFO
+
+38579 - background job you
+  START: 11:50:09
+  END:   11:53:42
+  Duration: 3.55 minutes
+  Level: INFO
+
+39547 - scheduled task 051
+  START: 11:37:53
+  END:   11:49:22
+  Duration: 11.48 minutes
+  Level: ERROR
+
+39860 - scheduled task 460
+  START: 11:53:17
+  END:   12:13:09
+  Duration: 19.87 minutes
+  Level: ERROR
+
+45135 - scheduled task 515
+  START: 11:37:14
+  END:   11:49:37
+  Duration: 12.38 minutes
+  Level: ERROR
+
+47139 - scheduled task 946
+  START: 11:44:56
+  END:   11:48:22
+  Duration: 3.43 minutes
+  Level: INFO
+
+50295 - scheduled task 811
+  START: 11:48:45
+  END:   11:55:20
+  Duration: 6.58 minutes
+  Level: WARN
+
+52532 - background job tqc
+  START: 12:00:03
+  END:   12:13:56
+  Duration: 13.88 minutes
+  Level: ERROR
+
+55722 - background job cmx
+  START: 11:54:56
+  END:   11:55:43
+  Duration: 0.78 minutes
+  Level: INFO
+
+57672 - scheduled task 796
+  START: 11:36:11
+  END:   11:36:18
+  Duration: 0.12 minutes
+  Level: INFO
+
+60134 - background job ulp
+  START: 11:41:11
+  END:   11:41:55
+  Duration: 0.73 minutes
+  Level: INFO
+
+62401 - scheduled task 936
+  START: 12:05:59
+  END:   12:16:23
+  Duration: 10.40 minutes
+  Level: ERROR
+
+62922 - scheduled task 531
+  START: 12:14:20
+  END:   12:15:09
+  Duration: 0.82 minutes
+  Level: INFO
+
+64591 - scheduled task 521
+  START: 11:57:05
+  END:   11:58:55
+  Duration: 1.83 minutes
+  Level: INFO
+
+67833 - scheduled task 080
+  START: 11:57:16
+  END:   12:00:51
+  Duration: 3.58 minutes
+  Level: INFO
+
+70808 - scheduled task 182
+  START: 11:44:43
+  END:   12:18:26
+  Duration: 33.72 minutes
+  Level: ERROR
+
+71766 - scheduled task 074
+  START: 11:45:04
+  END:   11:50:51
+  Duration: 5.78 minutes
+  Level: WARN
+
+72029 - scheduled task 333
+  START: 12:03:20
+  END:   N/A
+  Duration: N/A minutes
+  Level: INFO
+
+72897 - scheduled task 016
+  START: 12:12:27
+  END:   N/A
+  Duration: N/A minutes
+  Level: INFO
+
+75164 - scheduled task 173
+  START: 11:45:47
+  END:   11:46:51
+  Duration: 1.07 minutes
+  Level: INFO
+
+81258 - background job wmy
+  START: 11:36:58
+  END:   11:51:44
+  Duration: 14.77 minutes
+  Level: ERROR
+
+81470 - background job wiy
+  START: 12:08:30
+  END:   12:09:33
+  Duration: 1.05 minutes
+  Level: INFO
+
+85742 - scheduled task 064
+  START: 11:55:16
+  END:   12:07:33
+  Duration: 12.28 minutes
+  Level: ERROR
+
+86716 - background job xfg
+  START: 11:59:29
+  END:   12:05:03
+  Duration: 5.57 minutes
+  Level: WARN
+
+87228 - scheduled task 268
+  START: 11:44:25
+  END:   11:53:53
+  Duration: 9.47 minutes
+  Level: WARN
+
+87570 - scheduled task 794
+  START: 11:53:57
+  END:   12:01:50
+  Duration: 7.88 minutes
+  Level: WARN
+
+90812 - background job dej
+  START: 11:39:26
+  END:   11:43:32
+  Duration: 4.10 minutes
+  Level: INFO
+
+90962 - scheduled task 996
+  START: 11:40:51
+  END:   11:42:46
+  Duration: 1.92 minutes
+  Level: INFO
+
+96183 - scheduled task 678
+  START: 11:58:12
+  END:   12:02:26
+  Duration: 4.23 minutes
+  Level: INFO
+
+98746 - scheduled task 746
+  START: 12:04:18
+  END:   12:11:35
+  Duration: 7.28 minutes
+  Level: WARN
+
+99672 - background job sqm
+  START: 11:57:08
+  END:   12:02:21
+  Duration: 5.22 minutes
+  Level: WARN

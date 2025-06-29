@@ -27,16 +27,14 @@ A modern frontend project powered by **React**, **TypeScript**, **Vite**, and **
 
 - Url: [https://github.com/Necrocraft/log-monitoring-app.git](https://github.com/Necrocraft/log-monitoring-app.git)
 
-2. **Put the logs.log file in the public folder of the app** **This is important otherwise the data will not be visible**
-
-3. **Install dependencies**
+2. **Install dependencies**
 
 - npm install
 
-4. **Start the development server**
+3. **Start the development server**
 
 - npm run dev
 
-5. **For testing**
+4. **For testing**
 
 - npx vitest run

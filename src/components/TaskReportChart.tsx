@@ -22,13 +22,14 @@ const levelColors: Record<string, string> = {
 };
 
 const CustomTooltip = ({ active, payload }: any) => {
-  if (active && payload && payload.length) {
+  const isVisible = active && payload && payload.length;
+  if (isVisible) {
     const task = payload[0].payload;
     return (
       <div className="p-2 bg-white border shadow text-sm text-gray-800">
         <strong>{task.taskName}</strong>
         <br />
-        Id: {task.taskId}
+        ID: {task.taskId}
         <br />
         Duration: {task.duration.toFixed(2)} minutes
         <br />
@@ -39,7 +40,7 @@ const CustomTooltip = ({ active, payload }: any) => {
   return null;
 };
 
-export default function TaskDurationChart({ data }: Props) {
+export const TaskDurationChart = ({ data }: Props) => {
   return (
     <div className="w-full h-[500px] basis-[60%]">
       <ResponsiveContainer width="100%" height="100%">
@@ -62,4 +63,4 @@ export default function TaskDurationChart({ data }: Props) {
       </ResponsiveContainer>
     </div>
   );
-}
+};
